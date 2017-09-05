@@ -5,10 +5,19 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>simple</groupId>
-  <artifactId>simple</artifactId>
+  <groupId>training.maven.quick</groupId>
+  <artifactId>simple-example</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.2-SNAPSHOT</version>
   
-  <name>Replace for simple</name>
+  <name>Simple Example</name>
+  <description>
+  This is a simple example Maven project designed to work with Java applications packaged into a JAR File
+  </description>
+
+  <inceptionYear>2017</inceptionYear>
+  <url>http://maven.training</url>
+
+
+
 </project>
